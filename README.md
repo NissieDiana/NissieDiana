@@ -145,17 +145,6 @@
 
 ---
 
-<h2 align="center">📊 GitHub Analytics</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NissieDiana&show_icons=true&theme=tokyonight&hide_border=true&title_color=A78BFA&icon_color=8B5CF6" height="180" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NissieDiana&layout=compact&theme=tokyonight&hide_border=true&title_color=A78BFA" height="180" alt="Top languages" />
-  <br/><br/>
-  <img src="https://streak-stats.demolab.com/?user=NissieDiana&theme=tokyonight&hide_border=true&ring=A78BFA&fire=8B5CF6&currStreakLabel=A78BFA" alt="GitHub streak" />
-</div>
-
----
-
 <h2 align="center">💬 Quote</h2>
 
 <p align="center"><i>"Great things are built one small, consistent step at a time."</i></p>
