@@ -87,11 +87,12 @@
 <table>
   <tr>
     <td align="center" width="95"><img src="https://img.icons8.com/color/96/microsoft-excel-2019--v1.png" width="42" height="42" alt="MS Excel" /><br/><sub>MS Excel</sub></td>
-    <td align="center" width="95"><img src="https://cdn.simpleicons.org/powerbi/F2C811" width="42" height="42" alt="Power BI" /><br/><sub>Power BI</sub></td>
+    <td align="center" width="95"><img src="https://img.icons8.com/color/96/power-bi.png" width="42" height="42" alt="Power BI" /><br/><sub>Power BI</sub></td>
     <td align="center" width="95"><img src="https://img.icons8.com/color/96/microsoft-powerpoint-2019--v1.png" width="42" height="42" alt="PowerPoint" /><br/><sub>PowerPoint</sub></td>
-    <td align="center" width="95"><img src="https://cdn.simpleicons.org/canva/00C4CC" width="42" height="42" alt="Canva" /><br/><sub>Canva</sub></td>
-    <td align="center" width="95"><img src="https://cdn.simpleicons.org/openai/74AA9C" width="42" height="42" alt="ChatGPT" /><br/><sub>ChatGPT</sub></td>
-    <td align="center" width="95"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" height="42" alt="Python" /><br/><sub>Python</sub></td>
+    <td align="center" width="95"><img src="https://img.icons8.com/fluency/96/canva.png" width="42" height="42" alt="Canva" /><br/><sub>Canva</sub></td>
+    <td align="center" width="95"><img src="https://img.icons8.com/fluency/96/chatgpt.png" width="42" height="42" alt="ChatGPT" /><br/><sub>ChatGPT</sub></td>
+    <td align="center" width="95"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" height="42" alt="Python" /><td align="center" width="95"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42" height="42" alt="HTML5" /><br/><sub>HTML5</sub></td>
+<td align="center" width="95"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42" height="42" alt="CSS3" /><br/><sub>CSS3</sub></td><br/><sub>Python</sub></td>
   </tr>
   <tr>
     <td align="center" width="95"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42" height="42" alt="JavaScript" /><br/><sub>JavaScript</sub></td>
