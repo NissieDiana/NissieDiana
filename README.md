@@ -51,6 +51,39 @@
 
 <h2 align="center">🛠️ Tech Stack</h2>
 
+<h3 align="center">GenAI / LLMs</h3>
+<table align="center">
+  <tr>
+    <td align="center" width="110">
+      <img src="https://cdn.simpleicons.org/openai/74AA9C" width="55" height="55" alt="ChatGPT" /><br/>ChatGPT
+    </td>
+  </tr>
+</table>
+
+<h3 align="center">Data & Analytics</h3>
+<table align="center">
+  <tr>
+    <td align="center" width="110">
+      <img src="https://img.icons8.com/color/96/microsoft-excel-2019--v1.png" width="55" height="55" alt="MS Excel" /><br/>MS Excel
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.simpleicons.org/powerbi/F2C811" width="55" height="55" alt="Power BI" /><br/>Power BI
+    </td>
+  </tr>
+</table>
+
+<h3 align="center">Office & Design</h3>
+<table align="center">
+  <tr>
+    <td align="center" width="110">
+      <img src="https://img.icons8.com/color/96/microsoft-powerpoint-2019--v1.png" width="55" height="55" alt="PowerPoint" /><br/>PowerPoint
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.simpleicons.org/canva/00C4CC" width="55" height="55" alt="Canva" /><br/>Canva
+    </td>
+  </tr>
+</table>
+
 <h3 align="center">Languages</h3>
 <table align="center">
   <tr>
@@ -90,6 +123,23 @@
     <td align="center" width="110">
       <img src="https://cdn.simpleicons.org/github/A78BFA" width="55" height="55" alt="GitHub" /><br/>GitHub
     </td>
+  </tr>
+</table>
+
+---
+
+<h2 align="center">🤝 HR & Analytics Skills</h2>
+
+<table align="center">
+  <tr>
+    <td align="center" width="170"><b>HR Operations</b></td>
+    <td align="center" width="170"><b>HR Analytics</b></td>
+    <td align="center" width="170"><b>HRIS</b></td>
+  </tr>
+  <tr>
+    <td align="center" width="170"><b>Data Analysis</b></td>
+    <td align="center" width="170"><b>Data Visualization</b></td>
+    <td align="center" width="170"><b>Dashboards & Reporting</b></td>
   </tr>
 </table>
 
