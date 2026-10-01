@@ -3,13 +3,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:8B5CF6&height=230&section=header&text=Nissie%20Diana%20Jaldi&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=MBA%20(HR)%20Student%20%7C%20HR%20Analytics%20%26%20Operations%20%7C%20Tech%20Background&descSize=18&descAlignY=58" width="100%" alt="Header banner" />
 
 <a href="https://github.com/NissieDiana">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=640&lines=Building+smarter+HR+with+data+and+AI;Turning+ideas+into+secure%2C+AI-powered+solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=640&lines=Aspiring+HR+Professional;Turning+people+data+into+better+decisions" alt="Typing SVG" />
 </a>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=NissieDiana&label=Profile+Views&color=8B5CF6&style=for-the-badge" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/NissieDiana?label=Followers&style=for-the-badge&color=8B5CF6&labelColor=1e1b4b" alt="Followers" />
 
 </div>
 
@@ -49,7 +44,26 @@
 
 ---
 
-<h2 align="center">🛠️ Tech Stack</h2>
+<h2 align="center">🤝 Core Skills</h2>
+
+<table align="center">
+  <tr>
+    <td align="center" width="170"><b>HR Operations</b></td>
+    <td align="center" width="170"><b>HR Analytics</b></td>
+    <td align="center" width="170"><b>HRIS</b></td>
+  </tr>
+  <tr>
+    <td align="center" width="170"><b>Data Analysis</b></td>
+    <td align="center" width="170"><b>Data Visualization</b></td>
+    <td align="center" width="170"><b>Dashboards & Reporting</b></td>
+  </tr>
+</table>
+
+<p align="center"><b>Languages:</b> English | Telugu | Hindi</p>
+
+---
+
+<h2 align="center">🛠️ Tools & Technologies</h2>
 
 <h3 align="center">GenAI / LLMs</h3>
 <table align="center">
@@ -128,41 +142,12 @@
 
 ---
 
-<h2 align="center">🤝 HR & Analytics Skills</h2>
-
-<table align="center">
-  <tr>
-    <td align="center" width="170"><b>HR Operations</b></td>
-    <td align="center" width="170"><b>HR Analytics</b></td>
-    <td align="center" width="170"><b>HRIS</b></td>
-  </tr>
-  <tr>
-    <td align="center" width="170"><b>Data Analysis</b></td>
-    <td align="center" width="170"><b>Data Visualization</b></td>
-    <td align="center" width="170"><b>Dashboards & Reporting</b></td>
-  </tr>
-</table>
-
----
-
 <h2 align="center">💬 Quote</h2>
 
 <p align="center"><i>"Great things are built one small, consistent step at a time."</i></p>
 
 ---
 
-<h2 align="center">🚀 Status</h2>
-
-```text
- ____  _   _ ___ _     ____ ___ _   _  ____
-| __ )| | | |_ _| |   |  _ \_ _| \ | |/ ___|
-|  _ \| | | || || |   | | | | ||  \| | |  _
-| |_) | |_| || || |___| |_| | || |\  | |_| |
-|____/ \___/|___|_____|____/___|_| \_|\____|
-
-   Learning. Building. Improving. Every day.
-```
-
----
+<p align="center"><b>Open to entry-level HR opportunities</b><br/>Feel free to connect with me on LinkedIn or email.</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:8B5CF6&height=140&section=footer" width="100%" alt="Footer banner" />
