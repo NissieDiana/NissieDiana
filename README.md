@@ -25,25 +25,25 @@
 ### 💻 Full Stack Developer Intern · IIDT, Tirupati
 <img src="https://img.shields.io/badge/Jan_2024_--_Apr_2024-DBEAFE?style=flat-square" alt="Jan 2024 - Apr 2024" />
 
-- ▸ Built full-stack web applications using React, MongoDB, and Python
-- ▸ Developed responsive front-end interfaces and integrated REST APIs
-- ▸ Supported testing, debugging, and performance optimization
+▸ Built full-stack web applications using React, MongoDB, and Python
+▸ Developed responsive front-end interfaces and integrated REST APIs
+▸ Supported testing, debugging, and performance optimization
 
 ### 🛡️ Web Application Pentester Intern · Indian Servers Pvt. Ltd.
 <img src="https://img.shields.io/badge/May_2023_--_Jul_2023-E0E7FF?style=flat-square" alt="May 2023 - Jul 2023" />
 
-- ▸ Performed manual & automated security testing & identified vulnerabilities including SQL injection, XSS & authentication weaknesses
-- ▸ Applied OSINT methods and assisted with malware analysis and network security reviews
-- ▸ Prepared vulnerability reports with remediation recommendations
+ ▸ Performed manual & automated security testing & identified vulnerabilities including SQL injection, XSS & authentication weaknesses
+ ▸ Applied OSINT methods and assisted with malware analysis and network security reviews
+ ▸ Prepared vulnerability reports with remediation recommendations
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:A78BFA,100:60A5FA&height=3" width="100%" alt="divider" />
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FCE7F3,100:F3E8FF&height=55&section=header&text=Featured%20Project&fontSize=22&fontColor=86198F&animation=fadeIn&fontAlignY=50" width="100%" alt="Featured Project" />
 
 > **Malicious Use and Abuse of AI** (research)
-> - Researched cyber misuse of AI, including phishing automation, deepfakes, and attack scripting
-> - Evaluated risks that vulnerable AI systems pose to organizations and society
-> - Proposed mitigations such as anomaly detection, multilingual moderation, and usage monitoring, with recommendations for ethical and secure AI implementation
+- Researched cyber misuse of AI, including phishing automation, deepfakes, and attack scripting
+- Evaluated risks that vulnerable AI systems pose to organizations and society
+- Proposed mitigations such as anomaly detection, multilingual moderation, and usage monitoring, with recommendations for ethical and secure AI implementation
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:A78BFA,100:60A5FA&height=3" width="100%" alt="divider" />
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:D1FAE5,100:DBEAFE&height=55&section=header&text=Education&fontSize=22&fontColor=065F46&animation=fadeIn&fontAlignY=50" width="100%" alt="Education" />
