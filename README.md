@@ -2,8 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,50:8B5CF6,100:C084FC&height=210&section=header&text=Nissie%20Diana%20Jaldi&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=HR%20Analytics%20%7C%20HR%20Operations%20%7C%20Technology%20Background&descSize=17&descAlignY=60" width="100%" alt="Header banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=7C3AED&center=true&vCenter=true&width=700&lines=MBA+(HR)+Candidate+%7C+B.Tech+Computer+Science;Turning+people+data+into+better+decisions;Based+in+Hyderabad%2C+India" alt="Typing SVG" />
-
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=MBA+(HR)+Candidate+%7C+B.Tech+Computer+Science;Turning+people+data+into+better+decisions;Based+in+Hyderabad%2C+India" alt="Typing SVG" />
 <br/>
 
 <a href="https://www.linkedin.com/in/nissie-diana-jaldi-147208218/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -17,7 +16,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E0E7FF,100:F3E8FF&height=55&section=header&text=Summary&fontSize=22&fontColor=4C1D95&animation=fadeIn&fontAlignY=50" width="100%" alt="Summary" />
 
-> [!NOTE]
 > MBA candidate in Human Resource Management with a Computer Science engineering background. I combine HR fundamentals with hands-on technical experience in web development and application security, and I focus on HR operations, HR analytics, and data-driven people decisions.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:A78BFA,100:60A5FA&height=3" width="100%" alt="divider" />
@@ -34,7 +32,7 @@
 ### 🛡️ Web Application Pentester Intern · Indian Servers Pvt. Ltd.
 <img src="https://img.shields.io/badge/May_2023_--_Jul_2023-E0E7FF?style=flat-square" alt="May 2023 - Jul 2023" />
 
-- ▸ Performed manual and automated security testing and identified vulnerabilities including SQL injection, XSS, and authentication weaknesses
+- ▸ Performed manual & automated security testing & identified vulnerabilities including SQL injection, XSS & authentication weaknesses
 - ▸ Applied OSINT methods and assisted with malware analysis and network security reviews
 - ▸ Prepared vulnerability reports with remediation recommendations
 
@@ -42,26 +40,30 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FCE7F3,100:F3E8FF&height=55&section=header&text=Featured%20Project&fontSize=22&fontColor=86198F&animation=fadeIn&fontAlignY=50" width="100%" alt="Featured Project" />
 
-> [!IMPORTANT]
 > **Malicious Use and Abuse of AI** (research)
 > - Researched cyber misuse of AI, including phishing automation, deepfakes, and attack scripting
 > - Evaluated risks that vulnerable AI systems pose to organizations and society
 > - Proposed mitigations such as anomaly detection, multilingual moderation, and usage monitoring, with recommendations for ethical and secure AI implementation
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A78BFA,100:60A5FA&height=3" width="100%" alt="divider" />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D1FAE5,100:DBEAFE&height=55&section=header&text=Education&fontSize=22&fontColor=065F46&animation=fadeIn&fontAlignY=50" width="100%" alt="Education" />
+
+| Qualification | Institution | Year | CGPA |
+|---|---|---|---|
+| **MBA, Human Resource Management** | Andhra University | 2025 – Present | Pursuing |
+| **B.Tech, Computer Science Engineering** | Andhra Loyola Institute of Engineering and Technology (JNTUK) | 2024 | 7.27 |
+| **Intermediate (MPC)** | Narayana Junior College | 2020 | 8.36 |
+| **10th (CBSE)** | Atkinson Senior Secondary School | 2018 | 6.83 |
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:A78BFA,100:60A5FA&height=3" width="100%" alt="divider" />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D1FAE5,100:DBEAFE&height=55&section=header&text=Education%20%26%20Certifications&fontSize=22&fontColor=065F46&animation=fadeIn&fontAlignY=50" width="100%" alt="Education and Certifications" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:CCFBF1,100:DBEAFE&height=55&section=header&text=Certifications&fontSize=22&fontColor=115E59&animation=fadeIn&fontAlignY=50" width="100%" alt="Certifications" />
 
-### 🎓 Education
-- **MBA, Human Resource Management** · Andhra University · 2025 – Present
-- **B.Tech, Computer Science Engineering** · Andhra Loyola Institute of Engineering and Technology (JNTUK) · 2024
-
-### 📜 Certifications
-- NPTEL: Cloud Computing
-- NPTEL: Joy of Computing with Python
-- Infosys Springboard: Software Engineering & Agile
-- Udemy: Data Analytics Fundamentals
-
+- 📜 NPTEL: Cloud Computing
+- 📜 NPTEL: Joy of Computing with Python
+- 📜 Infosys Springboard: Software Engineering & Agile
+- 📜 Udemy: Data Analytics Fundamentals
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A78BFA,100:60A5FA&height=3" width="100%" alt="divider" />
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:A78BFA,100:60A5FA&height=3" width="100%" alt="divider" />
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FEF3C7,100:FCE7F3&height=55&section=header&text=Skills&fontSize=22&fontColor=92400E&animation=fadeIn&fontAlignY=50" width="100%" alt="Skills" />
@@ -107,7 +109,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:A78BFA,100:60A5FA&height=3" width="100%" alt="divider" />
 
-> [!TIP]
 > **Open to entry-level HR opportunities.** Let's connect on LinkedIn or by email.
 
 <div align="center">
