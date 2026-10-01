@@ -32,9 +32,9 @@
 ### 🛡️ Web Application Pentester Intern · Indian Servers Pvt. Ltd.
 <img src="https://img.shields.io/badge/May_2023_--_Jul_2023-E0E7FF?style=flat-square" alt="May 2023 - Jul 2023" />
 
- ▸ Performed manual & automated security testing & identified vulnerabilities including SQL injection, XSS & authentication weaknesses
- ▸ Applied OSINT methods and assisted with malware analysis and network security reviews
- ▸ Prepared vulnerability reports with remediation recommendations
+▸ Performed manual & automated security testing & identified vulnerabilities including SQL injection, XSS & authentication weaknesses
+▸ Applied OSINT methods and assisted with malware analysis and network security reviews
+▸ Prepared vulnerability reports with remediation recommendations
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:A78BFA,100:60A5FA&height=3" width="100%" alt="divider" />
 
@@ -50,10 +50,10 @@
 
 | Qualification | Institution | Year | CGPA |
 |---|---|---|---|
-| **MBA, Human Resource Management** | Andhra University | 2025 – Present | Pursuing |
-| **B.Tech, Computer Science Engineering** | Andhra Loyola Institute of Engineering and Technology (JNTUK) | 2024 | 7.27 |
-| **Intermediate (MPC)** | Narayana Junior College | 2020 | 8.36 |
-| **10th (CBSE)** | Atkinson Senior Secondary School | 2018 | 6.83 |
+| MBA - Human Resource Management** | Andhra University | 2025 – Present | Pursuing |
+| B.Tech - Computer Science Engineering** | Andhra Loyola Institute of Engineering and Technology (JNTUK) | 2024 | 7.27 |
+| Intermediate (MPC) | Narayana Junior College | 2020 | 8.36 |
+| 10th (CBSE) | Atkinson Senior Secondary School | 2018 | 6.83 |
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:A78BFA,100:60A5FA&height=3" width="100%" alt="divider" />
 
