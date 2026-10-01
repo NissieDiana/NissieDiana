@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,50:8B5CF6,100:C084FC&height=210&section=header&text=Nissie%20Diana%20Jaldi&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=HR%20Analytics%20%7C%20HR%20Operations%20%7C%20Technology%20Background&descSize=17&descAlignY=60" width="100%" alt="Header banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=MBA+(HR)+Candidate+%7C+B.Tech+Computer+Science;Turning+people+data+into+better+decisions;Based+in+Hyderabad%2C+India" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=MBA+in+HRM+%7C+B.Tech+in+Computer+Science+Engineering;Turning+people+data+into+better+decisions;Based+in+Hyderabad%2C+India" alt="Typing SVG" />
 <br/>
 
 <a href="https://www.linkedin.com/in/nissie-diana-jaldi-147208218/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -25,16 +25,16 @@
 ### 💻 Full Stack Developer Intern · IIDT, Tirupati
 <img src="https://img.shields.io/badge/Jan_2024_--_Apr_2024-DBEAFE?style=flat-square" alt="Jan 2024 - Apr 2024" />
 
-▸ Built full-stack web applications using React, MongoDB, and Python
-▸ Developed responsive front-end interfaces and integrated REST APIs
-▸ Supported testing, debugging, and performance optimization
+   ▸ Built full-stack web applications using React, MongoDB, and Python
+<p>▸ Developed responsive front-end interfaces and integrated REST APIs
+<p>▸ Supported testing, debugging, and performance optimization
 
 ### 🛡️ Web Application Pentester Intern · Indian Servers Pvt. Ltd.
 <img src="https://img.shields.io/badge/May_2023_--_Jul_2023-E0E7FF?style=flat-square" alt="May 2023 - Jul 2023" />
 
-▸ Performed manual & automated security testing & identified vulnerabilities including SQL injection, XSS & authentication weaknesses
-▸ Applied OSINT methods and assisted with malware analysis and network security reviews
-▸ Prepared vulnerability reports with remediation recommendations
+   ▸ Performed manual & automated security testing & identified vulnerabilities including SQL injection, XSS & authentication weaknesses
+<p>▸ Applied OSINT methods and assisted with malware analysis and network security reviews
+<p>▸ Prepared vulnerability reports with remediation recommendations
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:A78BFA,100:60A5FA&height=3" width="100%" alt="divider" />
 
@@ -50,10 +50,10 @@
 
 | Qualification | Institution | Year | CGPA |
 |---|---|---|---|
-| MBA - Human Resource Management** | Andhra University | 2025 – Present | Pursuing |
-| B.Tech - Computer Science Engineering** | Andhra Loyola Institute of Engineering and Technology (JNTUK) | 2024 | 7.27 |
-| Intermediate (MPC) | Narayana Junior College | 2020 | 8.36 |
-| 10th (CBSE) | Atkinson Senior Secondary School | 2018 | 6.83 |
+| MBA - Human Resource Management | Andhra University | 2025 – Present | Pursuing |
+| B.Tech - Computer Science Engineering | Andhra Loyola Institute of Engineering and Technology (JNTUK) | 2024 | 7.27 |
+| Intermediate - MPC | Narayana Junior College | 2020 | 8.36 |
+| 10th Standard - CBSE | Atkinson Senior Secondary School | 2018 | 6.83 |
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:A78BFA,100:60A5FA&height=3" width="100%" alt="divider" />
 
@@ -64,28 +64,38 @@
 - 📜 Infosys Springboard: Software Engineering & Agile
 - 📜 Udemy: Data Analytics Fundamentals
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:A78BFA,100:60A5FA&height=3" width="100%" alt="divider" />
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A78BFA,100:60A5FA&height=3" width="100%" alt="divider" />
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FEF3C7,100:FCE7F3&height=55&section=header&text=Skills&fontSize=22&fontColor=92400E&animation=fadeIn&fontAlignY=50" width="100%" alt="Skills" />
 
 <div align="center">
 
-**HR & Analytics**
+  
+<h3 align="center" style="color: #A78BFA; font-weight: bold; text-decoration: underline;">
+  HR & ANALYTICS
+</h3>
+<img src="https://img.shields.io/badge/HR_Operations-A78BFA?style=for-the-badge" alt="HR Operations" />
+<img src="https://img.shields.io/badge/HR_Analytics-A78BFA?style=for-the-badge" alt="HR Analytics" />
+<img src="https://img.shields.io/badge/HRIS-A78BFA?style=for-the-badge" alt="HRIS" />
+<img src="https://img.shields.io/badge/Data_Analysis-A78BFA?style=for-the-badge" alt="Data Analysis" />
+<img src="https://img.shields.io/badge/Data_Visualization-A78BFA?style=for-the-badge" alt="Data Visualization" />
 
-<img src="https://img.shields.io/badge/HR_Operations-E0E7FF?style=for-the-badge" alt="HR Operations" />
-<img src="https://img.shields.io/badge/HR_Analytics-DBEAFE?style=for-the-badge" alt="HR Analytics" />
-<img src="https://img.shields.io/badge/HRIS-F3E8FF?style=for-the-badge" alt="HRIS" />
-<img src="https://img.shields.io/badge/Data_Analysis-D1FAE5?style=for-the-badge" alt="Data Analysis" />
-<img src="https://img.shields.io/badge/Data_Visualization-FCE7F3?style=for-the-badge" alt="Data Visualization" />
+<h3 align="center" style="color: #A78BFA; font-weight: bold; text-decoration: underline;">
+  LANGUAGES 
+</h3>
 
-**Languages**
+<td align="center" width="100">
+  <img src="https://img.shields.io/badge/English-7C3AED?style=for-the-badge" alt="English" />
+</td>
 
-<img src="https://img.shields.io/badge/English-FEF3C7?style=for-the-badge" alt="English" />
-<img src="https://img.shields.io/badge/Telugu-FCE7F3?style=for-the-badge" alt="Telugu" />
-<img src="https://img.shields.io/badge/Hindi-E0E7FF?style=for-the-badge" alt="Hindi" />
+<td align="center" width="100">
+  <img src="https://img.shields.io/badge/Telugu-7C3AED?style=for-the-badge" alt="Telugu" />
+</td>
 
-**Tools & Technologies**
-
+<td align="center" width="100">
+  <img src="https://img.shields.io/badge/Hindi-7C3AED?style=for-the-badge" alt="Hindi" />
+</td>
+<h3 align="center" style="color: #A78BFA; font-weight: bold; text-decoration: underline;">
+  TOOLS & TECHNOLGIES 
+</h3>
 <table>
   <tr>
     <td align="center" width="95"><img src="https://img.icons8.com/color/96/microsoft-excel-2019--v1.png" width="42" height="42" alt="MS Excel" /><br/><sub>MS Excel</sub></td>
@@ -93,8 +103,9 @@
     <td align="center" width="95"><img src="https://img.icons8.com/color/96/microsoft-powerpoint-2019--v1.png" width="42" height="42" alt="PowerPoint" /><br/><sub>PowerPoint</sub></td>
     <td align="center" width="95"><img src="https://img.icons8.com/fluency/96/canva.png" width="42" height="42" alt="Canva" /><br/><sub>Canva</sub></td>
     <td align="center" width="95"><img src="https://img.icons8.com/fluency/96/chatgpt.png" width="42" height="42" alt="ChatGPT" /><br/><sub>ChatGPT</sub></td>
-    <td align="center" width="95"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" height="42" alt="Python" /><td align="center" width="95"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42" height="42" alt="HTML5" /><br/><sub>HTML5</sub></td>
-<td align="center" width="95"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42" height="42" alt="CSS3" /><br/><sub>CSS3</sub></td><br/><sub>Python</sub></td>
+    <td align="center" width="95"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" height="42" alt="Python"/><br/><sub>Python</sub></td>
+    <td align="center" width="95"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42" height="42" alt="HTML5" /><br/><sub>HTML5</sub></td>
+<td align="center" width="95"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42" height="42" alt="CSS3" /><br/><sub>CSS3</sub></td>
   </tr>
   <tr>
     <td align="center" width="95"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42" height="42" alt="JavaScript" /><br/><sub>JavaScript</sub></td>
