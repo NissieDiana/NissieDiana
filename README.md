@@ -1,153 +1,118 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:8B5CF6&height=230&section=header&text=Nissie%20Diana%20Jaldi&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=MBA%20(HR)%20Student%20%7C%20HR%20Analytics%20%26%20Operations%20%7C%20Tech%20Background&descSize=18&descAlignY=58" width="100%" alt="Header banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,50:8B5CF6,100:C084FC&height=210&section=header&text=Nissie%20Diana%20Jaldi&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=HR%20Analytics%20%7C%20HR%20Operations%20%7C%20Technology%20Background&descSize=17&descAlignY=60" width="100%" alt="Header banner" />
 
-<a href="https://github.com/NissieDiana">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=640&lines=Aspiring+HR+Professional;Turning+people+data+into+better+decisions" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=7C3AED&center=true&vCenter=true&width=700&lines=MBA+(HR)+Candidate+%7C+B.Tech+Computer+Science;Turning+people+data+into+better+decisions;Based+in+Hyderabad%2C+India" alt="Typing SVG" />
+
+<br/>
+
+<a href="https://www.linkedin.com/in/nissie-diana-jaldi-147208218/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:nissiedianaj@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://drive.google.com/file/d/11lOwrh2Yiwmy9j_6Wh7gRcDb5r30M-xw/view?usp=drive_link"><img src="https://img.shields.io/badge/Resume-8B5CF6?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" /></a>
+<a href="https://www.instagram.com/nissiediana.jaldi"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A78BFA,100:60A5FA&height=3" width="100%" alt="divider" />
 
-<h2 align="center">🌐 Connect With Me</h2>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E0E7FF,100:F3E8FF&height=55&section=header&text=Summary&fontSize=22&fontColor=4C1D95&animation=fadeIn&fontAlignY=50" width="100%" alt="Summary" />
 
-<table align="center">
+> [!NOTE]
+> MBA candidate in Human Resource Management with a Computer Science engineering background. I combine HR fundamentals with hands-on technical experience in web development and application security, and I focus on HR operations, HR analytics, and data-driven people decisions.
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A78BFA,100:60A5FA&height=3" width="100%" alt="divider" />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:DBEAFE,100:E0E7FF&height=55&section=header&text=Experience&fontSize=22&fontColor=1E3A8A&animation=fadeIn&fontAlignY=50" width="100%" alt="Experience" />
+
+### 💻 Full Stack Developer Intern · IIDT, Tirupati
+<img src="https://img.shields.io/badge/Jan_2024_--_Apr_2024-DBEAFE?style=flat-square" alt="Jan 2024 - Apr 2024" />
+
+- ▸ Built full-stack web applications using React, MongoDB, and Python
+- ▸ Developed responsive front-end interfaces and integrated REST APIs
+- ▸ Supported testing, debugging, and performance optimization
+
+### 🛡️ Web Application Pentester Intern · Indian Servers Pvt. Ltd.
+<img src="https://img.shields.io/badge/May_2023_--_Jul_2023-E0E7FF?style=flat-square" alt="May 2023 - Jul 2023" />
+
+- ▸ Performed manual and automated security testing and identified vulnerabilities including SQL injection, XSS, and authentication weaknesses
+- ▸ Applied OSINT methods and assisted with malware analysis and network security reviews
+- ▸ Prepared vulnerability reports with remediation recommendations
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A78BFA,100:60A5FA&height=3" width="100%" alt="divider" />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FCE7F3,100:F3E8FF&height=55&section=header&text=Featured%20Project&fontSize=22&fontColor=86198F&animation=fadeIn&fontAlignY=50" width="100%" alt="Featured Project" />
+
+> [!IMPORTANT]
+> **Malicious Use and Abuse of AI** (research)
+> - Researched cyber misuse of AI, including phishing automation, deepfakes, and attack scripting
+> - Evaluated risks that vulnerable AI systems pose to organizations and society
+> - Proposed mitigations such as anomaly detection, multilingual moderation, and usage monitoring, with recommendations for ethical and secure AI implementation
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A78BFA,100:60A5FA&height=3" width="100%" alt="divider" />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D1FAE5,100:DBEAFE&height=55&section=header&text=Education%20%26%20Certifications&fontSize=22&fontColor=065F46&animation=fadeIn&fontAlignY=50" width="100%" alt="Education and Certifications" />
+
+### 🎓 Education
+- **MBA, Human Resource Management** · Andhra University · 2025 – Present
+- **B.Tech, Computer Science Engineering** · Andhra Loyola Institute of Engineering and Technology (JNTUK) · 2024
+
+### 📜 Certifications
+- NPTEL: Cloud Computing
+- NPTEL: Joy of Computing with Python
+- Infosys Springboard: Software Engineering & Agile
+- Udemy: Data Analytics Fundamentals
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A78BFA,100:60A5FA&height=3" width="100%" alt="divider" />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FEF3C7,100:FCE7F3&height=55&section=header&text=Skills&fontSize=22&fontColor=92400E&animation=fadeIn&fontAlignY=50" width="100%" alt="Skills" />
+
+<div align="center">
+
+**HR & Analytics**
+
+<img src="https://img.shields.io/badge/HR_Operations-E0E7FF?style=for-the-badge" alt="HR Operations" />
+<img src="https://img.shields.io/badge/HR_Analytics-DBEAFE?style=for-the-badge" alt="HR Analytics" />
+<img src="https://img.shields.io/badge/HRIS-F3E8FF?style=for-the-badge" alt="HRIS" />
+<img src="https://img.shields.io/badge/Data_Analysis-D1FAE5?style=for-the-badge" alt="Data Analysis" />
+<img src="https://img.shields.io/badge/Data_Visualization-FCE7F3?style=for-the-badge" alt="Data Visualization" />
+
+**Languages**
+
+<img src="https://img.shields.io/badge/English-FEF3C7?style=for-the-badge" alt="English" />
+<img src="https://img.shields.io/badge/Telugu-FCE7F3?style=for-the-badge" alt="Telugu" />
+<img src="https://img.shields.io/badge/Hindi-E0E7FF?style=for-the-badge" alt="Hindi" />
+
+**Tools & Technologies**
+
+<table>
   <tr>
-    <td align="center" width="110">
-      <a href="https://www.linkedin.com/in/nissie-diana-jaldi-147208218/">
-        <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="55" height="55" alt="LinkedIn" /><br/>LinkedIn
-      </a>
-    </td>
-    <td align="center" width="110">
-      <a href="https://github.com/NissieDiana">
-        <img src="https://cdn.simpleicons.org/github/A78BFA" width="55" height="55" alt="GitHub" /><br/>GitHub
-      </a>
-    </td>
-    <td align="center" width="110">
-      <a href="mailto:nissiedianaj@gmail.com">
-        <img src="https://cdn.simpleicons.org/gmail/EA4335" width="55" height="55" alt="Email" /><br/>Email
-      </a>
-    </td>
-    <td align="center" width="110">
-      <a href="https://www.instagram.com/nissiediana.jaldi">
-        <img src="https://cdn.simpleicons.org/instagram/E4405F" width="55" height="55" alt="Instagram" /><br/>Instagram
-      </a>
-    </td>
-    <td align="center" width="110">
-      <a href="https://drive.google.com/file/d/11lOwrh2Yiwmy9j_6Wh7gRcDb5r30M-xw/view?usp=drive_link">
-        <img src="https://cdn.simpleicons.org/googledrive/4285F4" width="55" height="55" alt="Resume" /><br/>Resume
-      </a>
-    </td>
+    <td align="center" width="95"><img src="https://img.icons8.com/color/96/microsoft-excel-2019--v1.png" width="42" height="42" alt="MS Excel" /><br/><sub>MS Excel</sub></td>
+    <td align="center" width="95"><img src="https://cdn.simpleicons.org/powerbi/F2C811" width="42" height="42" alt="Power BI" /><br/><sub>Power BI</sub></td>
+    <td align="center" width="95"><img src="https://img.icons8.com/color/96/microsoft-powerpoint-2019--v1.png" width="42" height="42" alt="PowerPoint" /><br/><sub>PowerPoint</sub></td>
+    <td align="center" width="95"><img src="https://cdn.simpleicons.org/canva/00C4CC" width="42" height="42" alt="Canva" /><br/><sub>Canva</sub></td>
+    <td align="center" width="95"><img src="https://cdn.simpleicons.org/openai/74AA9C" width="42" height="42" alt="ChatGPT" /><br/><sub>ChatGPT</sub></td>
+    <td align="center" width="95"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" height="42" alt="Python" /><br/><sub>Python</sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="95"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42" height="42" alt="JavaScript" /><br/><sub>JavaScript</sub></td>
+    <td align="center" width="95"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="42" height="42" alt="React" /><br/><sub>React</sub></td>
+    <td align="center" width="95"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="42" height="42" alt="MongoDB" /><br/><sub>MongoDB</sub></td>
+    <td align="center" width="95"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42" height="42" alt="Git" /><br/><sub>Git</sub></td>
+    <td align="center" width="95"><img src="https://cdn.simpleicons.org/github/A78BFA" width="42" height="42" alt="GitHub" /><br/><sub>GitHub</sub></td>
   </tr>
 </table>
 
----
+</div>
 
-<h2 align="center">🤝 Core Skills</h2>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A78BFA,100:60A5FA&height=3" width="100%" alt="divider" />
 
-<table align="center">
-  <tr>
-    <td align="center" width="170"><b>HR Operations</b></td>
-    <td align="center" width="170"><b>HR Analytics</b></td>
-    <td align="center" width="170"><b>HRIS</b></td>
-  </tr>
-  <tr>
-    <td align="center" width="170"><b>Data Analysis</b></td>
-    <td align="center" width="170"><b>Data Visualization</b></td>
-    <td align="center" width="170"><b>Dashboards & Reporting</b></td>
-  </tr>
-</table>
+> [!TIP]
+> **Open to entry-level HR opportunities.** Let's connect on LinkedIn or by email.
 
-<p align="center"><b>Languages:</b> English | Telugu | Hindi</p>
+<div align="center">
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1500&color=7C3AED&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+profile;Let's+build+better+workplaces+together" alt="Closing typing SVG" />
 
-<h2 align="center">🛠️ Tools & Technologies</h2>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,50:8B5CF6,100:C084FC&height=110&section=footer" width="100%" alt="Footer banner" />
 
-<h3 align="center">GenAI / LLMs</h3>
-<table align="center">
-  <tr>
-    <td align="center" width="110">
-      <img src="https://cdn.simpleicons.org/openai/74AA9C" width="55" height="55" alt="ChatGPT" /><br/>ChatGPT
-    </td>
-  </tr>
-</table>
-
-<h3 align="center">Data & Analytics</h3>
-<table align="center">
-  <tr>
-    <td align="center" width="110">
-      <img src="https://img.icons8.com/color/96/microsoft-excel-2019--v1.png" width="55" height="55" alt="MS Excel" /><br/>MS Excel
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.simpleicons.org/powerbi/F2C811" width="55" height="55" alt="Power BI" /><br/>Power BI
-    </td>
-  </tr>
-</table>
-
-<h3 align="center">Office & Design</h3>
-<table align="center">
-  <tr>
-    <td align="center" width="110">
-      <img src="https://img.icons8.com/color/96/microsoft-powerpoint-2019--v1.png" width="55" height="55" alt="PowerPoint" /><br/>PowerPoint
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.simpleicons.org/canva/00C4CC" width="55" height="55" alt="Canva" /><br/>Canva
-    </td>
-  </tr>
-</table>
-
-<h3 align="center">Languages</h3>
-<table align="center">
-  <tr>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" height="55" alt="Python" /><br/>Python
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55" height="55" alt="JavaScript" /><br/>JavaScript
-    </td>
-  </tr>
-</table>
-
-<h3 align="center">Web & App Dev</h3>
-<table align="center">
-  <tr>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="55" height="55" alt="React" /><br/>React
-    </td>
-  </tr>
-</table>
-
-<h3 align="center">Databases</h3>
-<table align="center">
-  <tr>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="55" height="55" alt="MongoDB" /><br/>MongoDB
-    </td>
-  </tr>
-</table>
-
-<h3 align="center">Dev Tools</h3>
-<table align="center">
-  <tr>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" height="55" alt="Git" /><br/>Git
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.simpleicons.org/github/A78BFA" width="55" height="55" alt="GitHub" /><br/>GitHub
-    </td>
-  </tr>
-</table>
-
----
-
-<h2 align="center">💬 Quote</h2>
-
-<p align="center"><i>"Great things are built one small, consistent step at a time."</i></p>
-
----
-
-<p align="center"><b>Open to entry-level HR opportunities</b><br/>Feel free to connect with me on LinkedIn or email.</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:8B5CF6&height=140&section=footer" width="100%" alt="Footer banner" />
+</div>
